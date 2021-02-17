@@ -1,3 +1,4 @@
 Name: Paul Liu
-\nID: 20610588
+
+ID: 20610588
 ![](screenshot.png)
